@@ -19,7 +19,7 @@ bot.on("ready", () => {
 		process.exit(1);
 	}
 
-	setInterval( checkRip( statusChannel ), 10 * 1000 );
+	setInterval( checkRip( statusChannel ), config.frequency * 1000 );
 });
 
 bot.on("disconnected", () => {

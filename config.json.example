@@ -2,5 +2,6 @@
 	"user": "",
 	"password": "",
 	"server": "",
-	"channel": ""
+	"channel": "",
+	"frequency": 10
 }
