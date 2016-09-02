@@ -1,0 +1,19 @@
+{
+  "name": "discord-steam",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "0.8.1",
+    "discord.js": "5.2.0",
+    "lodash": "3.10.1",
+    "moment": "2.10.6",
+    "moment-timezone": "0.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sean Walsh <sean.walsh87+npm@gmail.com> (http://swalsh.org/)",
+  "license": "MIT"
+}
