@@ -55,5 +55,5 @@ ${JSON.stringify(status, null, 2)}
 }
 
 function getDate() {
-	return moment().tz("America/Los_Angeles").format("DD MMM YYYY HH:mm:ss");
+	return moment().tz( config.timezone ).format("DD MMM YYYY HH:mm:ss");
 }

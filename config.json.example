@@ -3,5 +3,6 @@
 	"password": "",
 	"server": "",
 	"channel": "",
-	"frequency": 10
+	"frequency": 10,
+	"timezone": "America/Los_Angeles"
 }
